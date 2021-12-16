@@ -1,5 +1,5 @@
 # Mitigating Gender Bias in Machine Translation: Target Language Grammatical Gender Projections Onto Source Language
-Repository contains code and partial data for experiments described in [Mitigating Gender Bias in Machine Translation: Target Language Grammatical Gender Projections Onto Source Language](https://arxiv.org/abs/2010.06203)
+Repository contains code and data for experiments described in [Mitigating Gender Bias in Machine Translation: Target Language Grammatical Gender Projections Onto Source Language](https://arxiv.org/abs/2010.06203)
 
 __This research has been supported by the European Regional Development Fund within the joint project of SIA TILDE and University of Latvia “Multilingual Artificial Intelligence Based Human Computer Interaction” No. 1.1.1.1/18/A/148.__
 
